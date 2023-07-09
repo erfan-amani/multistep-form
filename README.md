@@ -1,4 +1,4 @@
-# Bookily
+# Multistep Form
 
 I developed this project as a learning experience for React.js. In this mini project I tried working with formik and yup to build a multistep form. <br />
 
