@@ -4,6 +4,7 @@ I developed this project as a learning experience for React.js. In this mini pro
 
 #### Used Technologies
 - React.js
+- TailwindCSS
 - formik
 - yup
 
